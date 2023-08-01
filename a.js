@@ -1,4 +1,4 @@
 // this is a useless comment
 export function a() {
-  return 'e';
+  return 'a';
 }
