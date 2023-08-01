@@ -1,3 +1,3 @@
 export function a() {
-  return '123';
+  return 'abc';
 }
