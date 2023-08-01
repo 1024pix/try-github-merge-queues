@@ -1,0 +1,22 @@
+{
+  "name": "try-github-merge-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1024pix/try-github-merge-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1024pix/try-github-merge-queues/issues"
+  },
+  "homepage": "https://github.com/1024pix/try-github-merge-queues#readme",
+  "devDependencies": {
+    "vitest": "^0.33.0"
+  }
+}
