@@ -5,7 +5,7 @@ import { a } from './a';
 // second commit
 
 describe('#a', () => {
-  it('should return e', () => {
-    expect(a()).toEqual('e');
+  it('should return a', () => {
+    expect(a()).toEqual('a');
   });
 });
