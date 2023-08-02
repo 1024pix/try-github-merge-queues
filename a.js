@@ -1,3 +1,3 @@
 export function a() {
-  return 'noope';
+  return 'a';
 }
