@@ -3,6 +3,6 @@ import { a } from './a';
 
 describe('#a', () => {
   it('should return a', () => {
-    expect(a()).toEqual('noope');
+    expect(a()).toEqual('a');
   });
 });
