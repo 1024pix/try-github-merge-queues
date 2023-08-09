@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/1024pix/try-github-merge-queues#readme",
   "devDependencies": {
-    "vitest": "^0.33.0"
+    "vitest": "^0.34.0"
   }
 }
